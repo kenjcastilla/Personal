@@ -1,0 +1,10 @@
+"""next keyword helps to step over lines in a file. 
+In video it is used to step over lines in a .csv file. """
+csv - Comma Separated Values
+
+""" .append() for concatenation (strings, return values)
+.pop()
+f strings - LEARN THEM
+very helpful for .csv files
+example:	print(f"{line[0] line[1]})
+	This would print the elements of the first and second indices of a .csv file (may be applicable to other file types--research)
