@@ -28,7 +28,7 @@ There are 10 columns:
 **Siblings_c**: This table contains my father's siblings.
 There are 3 columns:  
 * firstname  
-* order_num: This is the respective sibling's number in terms of order of birth. For example, the firstborn would be 1. Also, if the firstborn has a child, that child's **fam_id_c** value (in the Family table) would be 1 as well.
+* order_num: This is the respective sibling's number in terms of order of birth. For example, the firstborn would be 1. Also, if the firstborn has a child, that child's **fam_id_c** value (in the **Family** table) would be 1 as well.
 * **pers_id**: This is a Foreign key that links this table back to the Family table.
 
 The **Siblings_w** table is the same as **Siblings_c** but with my mother's siblings.
