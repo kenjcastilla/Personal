@@ -14,3 +14,13 @@ mysql> desc family;
 | pers_id    | int         | NO   | PRI | NULL    | auto_increment |
 +------------+-------------+------+-----+---------+----------------+
 10 rows in set (0.00 sec)
+
+
+mysql> select firstname, lastname, age, sex, pat_mat, fam_id_c, fam_id_w, pers_id  
+from family where pers_id = 1;
++-----------+----------+------+------+---------+----------+----------+---------+
+| firstname | lastname | age  | sex  | pat_mat | fam_id_c | fam_id_w | pers_id |
++-----------+----------+------+------+---------+----------+----------+---------+
+| Kendall   | Castilla |   20 | M    | n       |        1 |        1 |       1 |
++-----------+----------+------+------+---------+----------+----------+---------+
+1 row in set (0.00 sec)
