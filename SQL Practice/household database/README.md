@@ -1,7 +1,7 @@
 This is a database that I created so that I could practice different database concepts.
 
 Concepts include:  
-		-Creating databases and tables  
+		- Creating databases and tables  
 		- Creating relationships between tables through Primary (and Foreign) Keys  
 		- Editing tables (names, data types, etc.)  
 
