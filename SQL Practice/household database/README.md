@@ -4,4 +4,4 @@ Concepts include:
 		- Creating relationships between tables through Primary (and Foreign) Keys  
 		- Editing tables (names, data types, etc.)  
 
-I did most of the editing myself, but sometimes, for more complex functions, I used MySQL Workbench.  
+I did most of the editing manually, but sometimes, for more complex functions, I used MySQL Workbench.  
