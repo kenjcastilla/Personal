@@ -1,0 +1,16 @@
+mysql> desc family;
++------------+-------------+------+-----+---------+----------------+
+| Field      | Type        | Null | Key | Default | Extra          |
++------------+-------------+------+-----+---------+----------------+
+| firstname  | varchar(20) | YES  |     | NULL    |                |
+| middlename | varchar(20) | YES  |     | NULL    |                |
+| lastname   | varchar(20) | YES  |     | NULL    |                |
+| age        | int         | YES  |     | NULL    |                |
+| sex        | char(1)     | YES  |     | NULL    |                |
+| pat_mat    | char(1)     | YES  |     | NULL    |                |
+| birth_date | date        | YES  |     | NULL    |                |
+| fam_id_c   | int         | YES  |     | NULL    |                |
+| fam_id_w   | int         | YES  |     | NULL    |                |
+| pers_id    | int         | NO   | PRI | NULL    | auto_increment |
++------------+-------------+------+-----+---------+----------------+
+10 rows in set (0.00 sec)
