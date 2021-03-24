@@ -1,0 +1,9 @@
+mysql> desc siblings_w;
++-----------+-------------+------+-----+---------+----------------+
+| Field     | Type        | Null | Key | Default | Extra          |
++-----------+-------------+------+-----+---------+----------------+
+| firstname | varchar(20) | YES  |     | NULL    |                |
+| order_num | int         | NO   | PRI | NULL    | auto_increment |
+| pers_id   | int         | YES  | MUL | NULL    |                |
++-----------+-------------+------+-----+---------+----------------+
+3 rows in set (0.00 sec)
