@@ -10,7 +10,7 @@ I did most of the editing manually in the terminal, but sometimes, for more comp
 The database is made up of 3 tables:
 * **Family**  
 * **Siblings_c**  
-* **Siblings-w**
+* **Siblings_w**
 
 **Family**: This table contains all of my relatives, ranging from my immmediate family to my parents' siblings and my grandparents.
 There are 10 columns:
