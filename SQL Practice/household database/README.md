@@ -32,3 +32,7 @@ There are 3 columns:
 * **pers_id**: This is a Foreign key that links this table back to the Family table.
 
 The **Siblings_w** table is the same as **Siblings_c** but with my mother's siblings.
+
+
+
+**I did not include the actual information of my relatives out of respect for their privacy. I only used myself as an example entry in the Family table.**
