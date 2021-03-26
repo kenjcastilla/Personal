@@ -5,5 +5,5 @@ Some of the Python files include exercises from the book, "Python Crash Course",
 Other files may simply be side programs for the expansion of my understanding of the language.
 
 **For Recruiters:**  
-The Family Database from my resume is in the **SQL** folder.  
-The NBA Stats Analysis IPython Notebook is in the **Python** folder.
+The Family Database from my resume is here: 
+The NBA Stats Analysis IPython Notebook is located here: 
